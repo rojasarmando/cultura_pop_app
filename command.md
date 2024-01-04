@@ -1,0 +1,4 @@
+``` flutter pub run flutter_native_splash:create ```
+
+
+``` flutter packages pub run flutter_launcher_icons:main ```
